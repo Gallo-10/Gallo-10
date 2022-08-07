@@ -21,6 +21,6 @@
   
 <div>
     <a href = "mailto:gabrielmarquesgallo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gabrielmarquesgallo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/gabriel-marques-gallo-292038235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
     
